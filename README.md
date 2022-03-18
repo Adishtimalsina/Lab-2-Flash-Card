@@ -5,6 +5,7 @@ This app allow user to add new flash card. Then when user click on the question 
 
 ### App Walk-though
 ![flash_card 2](https://user-images.githubusercontent.com/97929111/159096242-f5dae02a-de5f-4c45-8b5b-3c5e06bda318.gif)
+
 https://imgur.com/a/nkKaYQ8
 ## Required
 - [x] User can click on a ‘+’ button that takes the user to new ‘Add Card Screen’
